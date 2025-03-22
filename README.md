@@ -1,4 +1,4 @@
-# 🚀 From Jupyter Notebook to Azure Web App ☁️
+# ☁️ From Jupyter Notebook to Azure Web App 
 
 ## 💡 Overview
 
@@ -34,7 +34,7 @@ The process leverages the power of the Voilà library to seamlessly convert your
     * Configure authentication 🔐 and authorization rules.
     * Protect sensitive data and resources.
 
-## ✨ Additional Tips (from the article)
+## ✨ Additional Tips
 
 * Utilize Jupyter-flex 📊 for precise plot positioning within the web app.
 * Embed Microsoft Forms 📝 to gather valuable user feedback.
