@@ -1,7 +1,5 @@
 # 🚀 From Jupyter Notebook to Azure Web App ☁️
 
-This `readme.md` provides a detailed summary of the steps involved in transforming a Jupyter Notebook into a standalone web application and deploying it on Azure, as outlined in the insightful [original article](https://medium.com/microsoftazure/from-jupyter-notebook-to-azure-web-app-in-5-easy-steps-2783f8fd847d).
-
 ## 💡 Overview
 
 The process leverages the power of the Voilà library to seamlessly convert your interactive Jupyter Notebook into a polished web app. We'll walk through creating the notebook within the Azure Machine Learning environment, containerizing it using Docker, and finally, deploying it as a robust Azure Web App.
