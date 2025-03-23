@@ -2,7 +2,7 @@
 
 ## 💡 Overview
 
-The process leverages the power of the Voilà library to seamlessly convert your interactive Jupyter Notebook into a polished web app. We'll walk through creating the notebook within the Azure Machine Learning environment, containerizing it using Docker, and finally, deploying it as a robust Azure Web App.
+The process leverages the power of library to seamlessly convert your interactive Jupyter Notebook into a polished web app. We'll walk through creating the notebook within the Azure Machine Learning environment, containerizing it using Docker, and finally, deploying it as a robust Azure Web App.
 
 ## 📝 Key Steps
 
